@@ -28,5 +28,11 @@ The entire application runs on the client-side, which means no data is stored or
 
 In summary, the Interactive Quiz Application showcases a practical implementation of core web development skills. It combines JavaScript logic, HTML structure, and CSS styling to create a fully functional, interactive tool. The app can be further enhanced with features like timers, score storage, user authentication, and API-based question fetching to make it even more powerful and adaptive to real-world learning scenarios.
 
+# OUTPUT OF THE TASK
 
+![Image](https://github.com/user-attachments/assets/e2a450b5-8e00-4dc2-a25f-95f75b19144e)
+
+![Image](https://github.com/user-attachments/assets/4d1508ee-3f29-4f38-8d68-c4e21941e0f6)
+
+![Image](https://github.com/user-attachments/assets/b8a4171e-3732-4e81-a4c9-9ec5bc5449fe)
 
